@@ -11,9 +11,5 @@ class Student:
             return True
         else:
             return False
-
-    
-    def print_result():
-        print("Your Resuslt is Good")
              
         
