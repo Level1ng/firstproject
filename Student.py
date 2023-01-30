@@ -14,6 +14,6 @@ class Student:
 
     
     def print_result():
-        print("Your Resuslt is Good")
+        print("Your Result is Good")
              
         
